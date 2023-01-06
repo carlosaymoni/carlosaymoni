@@ -5,7 +5,19 @@
 
 # 💫 About Me:
 
-#💻 Actualmente estoy aprendiendo desarrollo web, con interes en el Front-end
+💫 About Me:
+✅ Hola, soy carlos
+💻Front-end en proceso,
+➡ Html
+➡ Css3
+➡ Javascript
+➡ React
+
+🌐 Socials:
+Instagram LinkedIn
+
+💻 Tech Stack:
+JavaScript HTML5 CSS3 Bootstrap SASS React Canva Sketch
  
 
 
