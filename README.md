@@ -1,18 +1,23 @@
-### Hola! soy Carlos 👋
+## Hola! soy Carlos 👋
 
-# 💫 About Me:
+## 💫 About Me:
 
-💻Front-end en proceso,
-➡ Html
-➡ Css3
-➡ Javascript
-➡ React
+###💻Soy desarrollador front-end en proceso, actualmente vivo en Córdoba (Argentina). Comence con desarrollo web alla por el año 2020, realice cursos en Coderhouse y de forma autodidacta fui aprendiendo y metiendome en este mundo.  
 
-🌐 Socials:
-Instagram LinkedIn
+## Puedes encontrarme en:
+- [Instagram] (https://www.instagram.com/csa.dev/) 
+- [LinkedIn] (https://www.linkedin.com/in/carlos-aymoni/)
 
-💻 Tech Stack:
-JavaScript HTML5 CSS3 Bootstrap SASS React Canva Sketch
+## Skills que estoy aprendiendo:
+
+###HTML5 
+###CSS3 
+###JavaScript 
+###Bootstrap 
+###SASS 
+###React 
+###Canva 
+###Sketch
  
 
 
