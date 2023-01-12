@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 
-💻Soy desarrollador front-end en proceso, actualmente vivo en Córdoba (Argentina). Comence con desarrollo web alla por el año 2020, realice cursos en Coderhouse y de forma autodidacta fui aprendiendo y metiendome en este mundo.  
+💻 Soy desarrollador front-end en proceso, actualmente vivo en Córdoba (Argentina). Comencé con desarrollo web allá por el año 2020, realicé cursos en Coderhouse y de forma autodidacta fui aprendiendo y metiéndome en este mundo. 
 
 ## Puedes encontrarme en:
 
@@ -11,14 +11,14 @@
 
 ## Skills que estoy aprendiendo:
 
--HTML5 
--CSS3 
--JavaScript 
--Bootstrap 
--SASS 
--React 
--Canva 
--Sketch
+- HTML5 
+- CSS3 
+- JavaScript 
+- Bootstrap 
+- SASS 
+- React 
+- Canva 
+- Sketch
  
 
 
