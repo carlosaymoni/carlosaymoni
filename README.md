@@ -1,12 +1,7 @@
-### Hola! soy Carlos Aymoni 👋
-
-<!--
-**carlosaymoni/carlosaymoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hola! soy Carlos 👋
 
 # 💫 About Me:
 
-💫 About Me:
-✅ Hola, soy carlos
 💻Front-end en proceso,
 ➡ Html
 ➡ Css3
